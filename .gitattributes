@@ -1,0 +1,2 @@
+# 换行一律 LF，不看个人的 core.autocrlf：仓库与工作区字节一致，不会出现只差换行的假改动。
+* text=auto eol=lf
