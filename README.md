@@ -23,6 +23,8 @@ macOS 原生直播客户端，Swift 6 + SwiftUI，只做 Mac（Apple 芯片，ma
 
 ![弹幕设置](screenshots/danmaku-settings.png)
 
+![画质](screenshots/quality.png)
+
 ![多看](screenshots/multiview.png)
 
 ## 编译
