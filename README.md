@@ -13,6 +13,12 @@ macOS 原生直播客户端，Swift 6 + SwiftUI，只做 Mac（Apple 芯片，ma
 - 弹幕（Core Animation 图层池）、小窗口、画中画、多看（最多四路）
 - 抖音短视频推荐流
 
+## 截图
+
+![分区](screenshots/categories.png)
+
+![播放器](screenshots/player.png)
+
 ## 编译
 
 需要 Xcode，Apple 芯片的 Mac。工程用 ad-hoc 签名（Sign to Run Locally），不需要 Apple 开发者账号。
